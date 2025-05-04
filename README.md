@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madarawarakagod&label=Profile%20views&color=0e75b6&style=flat" alt="madarawarakagod" /> </p>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=madarawarakagod&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madarawarakagod&theme=tokyonight) |
+| ![Madara's github stats](https://github-readme-stats.vercel.app/api?username=madarawarakagod&show_icons=true&theme=tokyonight) | ![Madara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madarawarakagod&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madarawarakagod&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=madarawarakagod&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
